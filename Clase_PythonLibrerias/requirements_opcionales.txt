@@ -1,0 +1,29 @@
+# Dependencias opcionales para ejecutar todos los ejemplos del notebook
+# Instalá solo lo que necesites si preferís una instalación más liviana.
+
+altair
+autoviz
+beautifulsoup4
+bokeh
+catboost
+dask[complete]
+datatable
+lightgbm
+matplotlib
+openpyxl
+pingouin
+plotly
+polars
+prophet
+pyspark
+requests
+scikit-learn
+scipy
+seaborn
+selenium
+statsmodels
+sweetviz
+tsfresh
+vaex
+xgboost
+ydata_profiling
